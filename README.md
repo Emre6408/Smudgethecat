@@ -13,7 +13,8 @@
    
 ## Technologies I use
 
-<img src="https://skillicons.dev/icons?i=asm,javascript,typescript,html,css,react,nodejs,tailwindcss,express,mongodb,vercel,github,gitlab,&theme=dark" />
+<img src="https://skillicons.dev/icons?i=asm,javascript,typescript,html,css,react,nodejs,tailwindcss,express,mongodb,vercel,github,gitlab&theme=dark" />
+
 
 <br />
 
