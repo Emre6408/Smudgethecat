@@ -13,7 +13,7 @@
    
 ## Technologies I use
 
-<img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,markdown,react,nodejs,tailwindcss,express,mongodb,vercel,github,gitlab,git,sentry,figma,ps&theme=dark" />
+<img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,markdown,react,nodejs,tailwindcss,express,mongodb,vercel,github,gitlab,&theme=dark" />
 
 <br />
 
