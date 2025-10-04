@@ -1,8 +1,27 @@
 # Smudgethecat
 
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+<p align="left">
+  <a href="https://github.com/Emre6408"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=clqu" alt="Visitors">
+</p>
+
+
+# 𝗛𝗲𝗹𝗹𝗼 <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27"> 
+  
+<br />
+   
+## Technologies I use
+
+<img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,markdown,react,nodejs,tailwindcss,express,mongodb,vercel,github,gitlab,git,sentry,figma,ps&theme=dark" />
+
+<br />
+
+
+<br />
+
+## 🔮 GitHub Trophies</h2>
+<img src="https://github-profile-trophy.vercel.app/?username=Emre6408&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" />
+
+<br />
+<br />
