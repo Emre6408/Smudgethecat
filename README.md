@@ -20,7 +20,7 @@
 
 <br />
 
-## 🔮 GitHub Trophies</h2>
+## GitHub Trophies</h2>
 <img src="https://github-profile-trophy.vercel.app/?username=Emre6408&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" />
 
 <br />
